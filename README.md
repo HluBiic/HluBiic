@@ -1,3 +1,5 @@
+## "Learning to program is like unlocking a superpower—the ability to bring ideas to life with just your mind and a keyboard" 🔮
+
 ## 👩‍💻 Languages / technologies
 - C++ / C
 - Java
