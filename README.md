@@ -12,7 +12,7 @@
 - MySQL
 
 ## 📈 GitHub Stats:
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=john-doe&show_icons=true&count_private=true&hide=prs&theme=radical)
+![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HluBiic&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 
 
