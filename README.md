@@ -1,4 +1,4 @@
-## Computer Science student 🎓
+***Computer Science student 🎓***
 
 ## 👩‍💻 Languages / technologies
 - C++ / C
