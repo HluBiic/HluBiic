@@ -1,5 +1,4 @@
-## Hi there 👋
-I am a Computer Science student 🎓
+## Computer Science student 🎓
 
 ## 👩‍💻 Languages / technologies
 - C++ / C
