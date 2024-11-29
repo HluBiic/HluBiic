@@ -1,5 +1,3 @@
-***Computer Science student 🎓***
-
 ## 👩‍💻 Languages / technologies
 - C++ / C
 - Java
