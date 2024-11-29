@@ -1,6 +1,4 @@
-## TEST !! i there 👋
-
-# Hi there, I'm John Doe 👋
+## Hi there 👋
 
 ## 👨‍💻 Languages
 
@@ -8,11 +6,16 @@
 - ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 - ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
-## 
+## Languages / technologies
+- C++ / C
+- Java
+- Haskel
+- Python
 - MySQL
+- CUDA programming
 
 ## 📈 GitHub Stats:
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HluBiic&show_icons=true&count_private=true&hide=prs&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=HluBiic&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 
 
